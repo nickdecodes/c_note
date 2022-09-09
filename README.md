@@ -1,4 +1,4 @@
-# c_note
+# [c_note](http://c.biancheng.net/c/)
 
 - [常用库](#常用库)
 
